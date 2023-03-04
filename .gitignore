@@ -1,0 +1,6 @@
+*
+!/Transport/
+!.gitignore
+!*.h
+!*.cpp
+!*.txt
